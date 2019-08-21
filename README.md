@@ -1,6 +1,6 @@
 # Exercise 1.3 - Rock Paper Scissors
 
-Join the [Rock Paper Scissors](https://classroom.github.com/a/uOolUhCm) GitHub Classroom assignment.
+Join the [Rock Paper Scissors](https://classroom.github.com/a/KIxcdzqt) GitHub Classroom assignment.
 
 1. Write a Ruby program that asks two players to enter either Rock, Paper or Scissors and then outputs the outcome of the game.
 
