@@ -1,8 +1,9 @@
-# Exercise 1.3 - Rock Paper Scissors
+Finished everything?? Looking for another challenge? 
 
-Join the [Rock Paper Scissors](https://classroom.github.com/a/KIxcdzqt) GitHub Classroom assignment.
+# Extra Challenge: Rock Paper Scissors
 
-1. Write a Ruby program that asks two players to enter either Rock, Paper or Scissors and then outputs the outcome of the game.
+1. Create a new branch.
+2. Write a Ruby program that asks two players to enter either Rock, Paper or Scissors and then outputs the outcome of the game.
 
 > Note: You should check whether their is valid. If it is invalid, say "No cheaters! Only Rock, Paper or Scissors are allowed.
 
@@ -142,8 +143,9 @@ No cheaters! Only Rock, Paper or Scissors are allowed.
   </tr>
 </table>
 
-
-2. Make a commit, then update your program to also output the winner of the game.
+3. Make a commit(s) and push up to GitHub.
+4. Create a new branch.
+5. Update your program to also output the winner of the game.
 
 **Sample IO**
 
@@ -288,7 +290,9 @@ No cheaters! Only Rock, Paper or Scissors are allowed.
 </table>
 
 
-3. Make a commit, then update your program so that it reprompts the players to play again if there is a tie or somebody entered an incorrect value (i.e. cheated).
+6. Make a commit(s) and push up to GitHub.
+7. Create a new branch.
+8. Update your program so that it re-prompts the players to play again if there is a tie or somebody entered an incorrect value (i.e. cheated).
 
 **Sample IO**
 
@@ -429,7 +433,9 @@ Player 2 wins.
 </table>
 
 
-4. Make a commit, then update your program to run until one player wins best out of 3 matches (i.e. twice).
+9. Make a commit(s) and push up to GitHub.
+10. Create a new branch.
+11. Update your program to run until one player wins best out of 3 matches (i.e. twice).
 
 **Sample IO**
 
@@ -614,3 +620,6 @@ Player 2 wins.
 </td>
   </tr>
 </table>
+
+12. Make a commit(s) and push up to GitHub.
+13. Create a PR and submit the link in Canvas
