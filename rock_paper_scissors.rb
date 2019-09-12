@@ -12,7 +12,7 @@ def start_game()
     value = rock_paper_scissors(player1_selection, player2_selection)
     if (value === "player 1") then
       player1_score += 1
-    elsif (value === "player2") then
+    elsif (value === "player 2") then
       player2_score += 1
     end
   end
