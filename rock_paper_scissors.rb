@@ -12,29 +12,35 @@ def rock_paper_scissors(player1, player2)
     when "rock"
       print "Tie!"
     when "paper"
-      print "Paper covers rock."
+      puts "Paper covers rock."
+      print "Player 2 wins."
     when "scissors"
-      print "Rock crushes scissors."
+      puts "Rock crushes scissors."
+      print "Player 1 wins."
     else
       print "No cheaters! Only Rock, Paper, or Scissors are allowed."
     end
   when "paper"
     case player2
     when "rock"
-      print "Paper covers rock."
+      puts "Paper covers rock."
+      print "Player 1 wins."
     when "paper"
       print "Tie!"
     when "scissors"
-      print "Scissors cuts paper. "
+      puts "Scissors cuts paper."
+      print "Player 2 wins."
     else
       print "No cheaters! Only Rock, Paper, or Scissors are allowed."
     end
   when "scissors"
     case player2
     when "rock"
-      print "Rock crushes scissors. "
+      puts "Rock crushes scissors."
+      print "Player 2 wins."
     when "paper"
-      print "Paper covers rock."
+      puts "Scissors cuts paper."
+      print "Player 1 wins."
     when "scissors"
       print "Tie!"
     else
