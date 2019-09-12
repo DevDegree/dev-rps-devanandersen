@@ -34,7 +34,7 @@ def rock_paper_scissors(player1, player2)
     when "rock"
       print "Rock crushes scissors. "
     when "paper"
-      print "Paper covers rock."
+      print "Scissors cuts paper."
     when "scissors"
       print "Tie!"
     else
